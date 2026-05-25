@@ -1,0 +1,9 @@
+Package             Version
+------------------- -------
+google-genai        2.6.0
+google-generativeai 0.8.6
+grpcio-status       1.71.2
+pip                 26.0.1
+PyAudio             0.2.14
+pyttsx3             2.99
+SpeechRecognition   3.16.1
